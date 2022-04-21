@@ -1,0 +1,2772 @@
+{
+    "plugins": [
+        {
+            "name": "@zeplin/cli-connect-storybook-plugin",
+            "config": {
+                "url": "http://movistar-ui-movistar-ui.apps.ocpnp.cuyorh.tcloud.ar/",
+                "startScript": "storybook"
+            }
+        },
+        {
+            "name": "@zeplin/cli-connect-react-plugin"
+        }
+    ],
+    "components": [
+        {
+            "path": "src/Assets/24/AlertInfo/AlertInfo.tsx",
+            "zeplinNames": [
+                "Assets/24/AlertInfo"
+            ]
+        },
+        {
+            "path": "src/Assets/24/AlertError/AlertError.tsx",
+            "zeplinNames": [
+                "Assets/24/AlertError"
+            ]
+        },
+        {
+            "path": "src/Assets/24/MobilePurple/MobilePurple.tsx",
+            "zeplinNames": [
+                "Assets/24/MobilePurple"
+            ]
+        },
+        {
+            "path": "src/Assets/24/SmsCircle/SmsCircle.tsx",
+            "zeplinNames": [
+                "Assets/24/SmsCircle"
+            ]
+        },
+        {
+            "path": "src/Assets/64/NotificationKo/NotificationKo.tsx",
+            "zeplinNames": [
+                "Assets/64/NotificationKo"
+            ]
+        },
+        {
+            "path": "src/Assets/64/NotificationOk/NotificationOk.tsx",
+            "zeplinNames": [
+                "Assets/64/NotificationOk"
+            ]
+        },
+        {
+            "path": "src/Assets/64/Bills/Bills.tsx",
+            "zeplinNames": [
+                "Assets/64/Bills"
+            ]
+        },
+        {
+            "path": "src/Assets/64/Cant_Talk/Cant_Talk.tsx",
+            "zeplinNames": [
+                "Assets/64/Cant-talk"
+            ]
+        },
+        {
+            "path": "src/Resources/ListsAmount/Right/Amount/Amount.tsx",
+            "zeplinNames": [
+                "Ι🔒Resources/ListsAmount/Right/Amount"
+            ]
+        },
+        {
+            "path": "src/Dividers/SlimLineCentered/SlimLineCentered.tsx",
+            "zeplinNames": [
+                "Dividers/SlimLineCentered"
+            ]
+        },
+        {
+            "path": "src/Resources/ListsAmount/Left/Primary16R/Primary16R.tsx",
+            "zeplinNames": [
+                "Ι🔒Resources/ListsAmount/Left/Primary16R",
+                "Ι🔒Resources/ListsText/Left/Primary16R",
+                "Ι🔒Resources/ListsSelection/Left/Primary16R"
+            ]
+        },
+        {
+            "path": "src/Lists/Amount/NoAsset/OneL/OneL.tsx",
+            "zeplinNames": [
+                "Lists/Amount/NoAsset/1L"
+            ]
+        },
+        {
+            "path": "src/Resources/Spinners/24/Spinner24.tsx",
+            "zeplinNames": [
+                "Ι🔒Resources/Spinners/24/Color",
+                "Ι🔒Resources/Spinners/24/Inverse"
+            ]
+        },
+        {
+            "path": "src/Resources/Spinners/72/Spinner72.tsx",
+            "zeplinNames": [
+                "Ι🔒Resources/Spinners/72/Color",
+                "Ι🔒Resources/Spinners/72/Inverse"
+            ]
+        },
+        {
+            "path": "src/Texts/Basics/Left/SectionTitle/SectionTitle.tsx",
+            "zeplinNames": [
+                "Texts/Basics/Left/SectionTitle"
+            ]
+        },
+        {
+            "path": "src/Texts/Basics/Left/Paragraph14/Paragraph14.tsx",
+            "zeplinNames": [
+                "Texts/Basics/Left/Paragraph14"
+            ]
+        },
+        {
+            "path": "src/Texts/Basics/Left/Paragraph14_Link_Term/Paragraph14LinkTerm.tsx",
+            "zeplinNames": [
+                "Texts/Basics/Left/Paragraph14-link-term"
+            ]
+        },
+        {
+            "path": "src/Buttons/ButtonLayouts/ButtonFixedFooterLayout/1Button/OneButton.tsx",
+            "zeplinNames": [
+                "Buttons/ButtonLayouts/ButtonFixedFooterLayout/1Button"
+            ]
+        },
+        {
+            "path": "src/Feedbacks/ErrorScreen/SingleButton/SingleButton.tsx",
+            "zeplinNames": [
+                "Feedbacks/ErrorScreen 🚫 [USE FROM BRANDS LIBRARIES]/SingleButton"
+            ]
+        },
+        {
+            "path": "src/Feedbacks/SuccessScreen/SingleButton/SingleButton.tsx",
+            "zeplinNames": [
+                "Feedbacks/SuccessScreen 🚫 [USE FROM BRANDS LIBRARIES]/SingleButton"
+            ]
+        },
+        {
+            "path": "src/Assets/48/Data_Negative/Data_Negative.tsx",
+            "zeplinNames": [
+                "Assets/48/Data_Negative"
+            ]
+        },
+        {
+            "path": "src/Assets/48/Data_Positive/Data_Positive.tsx",
+            "zeplinNames": [
+                "Assets/48/Data_Positive"
+            ]
+        },
+        {
+            "path": "src/Assets/48/LandLine_Positive/LandLine_Positive.tsx",
+            "zeplinNames": [
+                "Assets/48/LandLine_Positive"
+            ]
+        },
+        {
+            "path": "src/Assets/48/LandLine_Negative/LandLine_Negative.tsx",
+            "zeplinNames": [
+                "Assets/48/LandLine_Negative"
+            ]
+        },
+        {
+            "path": "src/Assets/48/Sms_Negative/Sms_Negative.tsx",
+            "zeplinNames": [
+                "Assets/48/SmsNegative"
+            ]
+        },
+        {
+            "path": "src/Assets/48/Sms_Positive/Sms_Positive.tsx",
+            "zeplinNames": [
+                "Assets/48/SmsPositive"
+            ]
+        },
+        {
+            "path": "src/Illustrations/104/EmptyData/EmptyData.tsx",
+            "zeplinNames": [
+                "Illustrations/104/EmptyData"
+            ]
+        },
+        {
+            "path": "src/EmptyStates/Icon/Link/Link.tsx",
+            "zeplinNames": [
+                "Empty States/Icon/Link"
+            ]
+        },
+        {
+            "path": "src/Assets/40/AskTopupBalance/AskTopupBalance.tsx",
+            "zeplinNames": [
+                "Assets/40/AskTopupBalance"
+            ]
+        },
+        {
+            "path": "src/Assets/40/CallCircle/CallCircle.tsx",
+            "zeplinNames": [
+                "Assets/40/CallCircle"
+            ]
+        },
+        {
+            "path": "src/Assets/40/DataCircle/DataCircle.tsx",
+            "zeplinNames": [
+                "Assets/40/DataCircle",
+                "Assets/40/Data"
+            ]
+        },
+        {
+            "path": "src/Assets/40/Gift/Gift.tsx",
+            "zeplinNames": [
+                "Assets/40/Gift"
+            ]
+        },
+        {
+            "path": "src/Assets/40/Purchase/Purchase.tsx",
+            "zeplinNames": [
+                "Assets/40/Purchase"
+            ]
+        },
+        {
+            "path": "src/Assets/40/SendBalance/SendBalance.tsx",
+            "zeplinNames": [
+                "Assets/40/SendBalance"
+            ]
+        },
+        {
+            "path": "src/Assets/40/SmsCircle/SmsCircle.tsx",
+            "zeplinNames": [
+                "Assets/40/SmsCircle"
+            ]
+        },
+        {
+            "path": "src/Assets/40/TopupBalance/TopupBalance.tsx",
+            "zeplinNames": [
+                "Assets/40/TopupBalance"
+            ]
+        },
+        {
+            "path": "src/Assets/40/TopupCreditcard/TopupCreditcard.tsx",
+            "zeplinNames": [
+                "Assets/40/TopupCreditcard"
+            ]
+        },
+        {
+            "path": "src/Assets/40/TopupInvoice/TopupInvoice.tsx",
+            "zeplinNames": [
+                "Assets/40/TopupInvoice"
+            ]
+        },
+        {
+            "path": "src/Assets/40/TopupPrepaidcard/TopupPrepaidcard.tsx",
+            "zeplinNames": [
+                "Assets/40/TopupPrepaidcard"
+            ]
+        },
+        {
+            "path": "src/Assets/40/TopupBalanceSos/TopupBalanceSos.tsx",
+            "zeplinNames": [
+                "Assets/40/TopupBalanceSos"
+            ]
+        },
+        {
+            "path": "src/Assets/40/MobilePurple/MobilePurple.tsx",
+            "zeplinNames": [
+                "Assets/40/MobilePurple"
+            ]
+        },
+        {
+            "path": "src/Lists/Chart/NoChevron/TwoL/TwoL.tsx",
+            "zeplinNames": [
+                "Lists/Chart/NoChevron/2L"
+            ]
+        },
+        {
+            "path": "src/Lists/Chart/NoChevron/ThreeL/ThreeL.tsx",
+            "zeplinNames": [
+                "Lists/Chart/NoChevron/3L"
+            ]
+        },
+        {
+            "path": "src/Resources/ListsAmount/Left/Secondary14R/Secondary14R.tsx",
+            "zeplinNames": [
+                "Ι🔒Resources/ListsAmount/Left/Secondary14R",
+                "Ι🔒Resources/ListsText/Left/Secondary14R",
+                "Ι🔒Resources/ListsSelection/Left/Secondary14R"
+            ]
+        },
+        {
+            "path": "src/Layouts/FullWidth/FullWidth.tsx",
+            "zeplinNames": [
+                "🔨 Layouts/FullWidth"
+            ]
+        },
+        {
+            "path": "src/Layouts/Header/Header.tsx",
+            "zeplinNames": [
+                "🔨 Layouts/Header"
+            ]
+        },
+        {
+            "path": "src/Texts/Basics/Center/14R_Header/14R_Header.tsx",
+            "zeplinNames": [
+                "Texts/Basics/Center/14R_Header"
+            ]
+        },
+        {
+            "path": "src/Texts/Basics/Center/40R_Amount_Header/40R_Amount_Header.tsx",
+            "zeplinNames": [
+                "Texts/Basics/Center/40R_Amount_Header"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Chevron/Right/Right.tsx",
+            "zeplinNames": [
+                "Ι🔒Assets/24/Chevron/Right"
+            ]
+        },
+        {
+            "path": "src/Lists/Amount/Asset/40/ListAssetBase.tsx",
+            "zeplinNames": [
+                "Lists/Amount/Asset/40/2L",
+                "Lists/Amount/Asset/40/Label2LDown",
+                "Lists/Amount/Asset/40/Label3LDown"
+            ]
+        },
+        {
+            "path": "src/Resources/ListsAmount/Right/Info/Info.tsx",
+            "zeplinNames": [
+                "Ι🔒Resources/ListsAmount/Right/Info"
+            ]
+        },
+        {
+            "path": "src/Dividers/FatGrey/FatGrey.tsx",
+            "zeplinNames": [
+                "Dividers/FatGrey"
+            ]
+        },
+        {
+            "path": "src/Resources/ListsChevron/Text16R/Text16R.tsx",
+            "zeplinNames": [
+                "Ι🔒Resources/ListsChevron/Text16R"
+            ]
+        },
+        {
+            "path": "src/Assets/40/MovBalance/MovBalance.tsx",
+            "zeplinNames": [
+                "Assets/40/MovBalance"
+            ]
+        },
+        {
+            "path": "src/Illustrations/104/NotificationInfo/NotificationInfo.tsx",
+            "zeplinNames": [
+                "Illustrations/104/NotificationInfo"
+            ]
+        },
+        {
+            "path": "src/Labels/Background/Label/Label.tsx",
+            "zeplinNames": [
+                "Labels/Background/Center/Sixth",
+                "Labels/Background/Center/Second",
+                "Labels/Background/Left/Sixth",
+                "Labels/Background/Left/Fifth",
+                "Labels/Background/Center/Fourth",
+                "Labels/Background/Center/Third",
+                "Labels/Background/Center/Fifth",
+                "Labels/Background/Center/First",
+                "Labels/Background/Left/Third",
+                "Labels/Background/Left/First",
+                "Labels/Background/Left/Fourth",
+                "Labels/Background/Left/Second"
+            ]
+        },
+        {
+            "path": "src/Lists/Chevron/FullWidth/NoAsset/1L/OneL.tsx",
+            "zeplinNames": [
+                "Lists/Chevron/FullWidth/NoAsset/1L"
+            ]
+        },
+        {
+            "path": "src/EmptyStates/Icon/State/State.tsx",
+            "zeplinNames": [
+                "Empty States/Icon/state"
+            ]
+        },
+        {
+            "path": "src/EmptyStates/Icon/Button/Button.tsx",
+            "zeplinNames": [
+                "Empty States/Icon/Button"
+            ]
+        },
+        {
+            "path": "src/Buttons/Primary/Primary.tsx",
+            "zeplinNames": [
+                "Buttons/1.Primary/Normal",
+                "Buttons/1.Primary/Loading",
+                "Buttons/1.Primary/Disabled",
+                "Buttons/1.Primary/Pressed",
+                "Buttons/1.Primary/Inverse/Pressed",
+                "Buttons/1.Primary/Inverse/Disabled",
+                "Buttons/1.Primary/Inverse/Loading",
+                "Buttons/1.Primary/Inverse/Normal"
+            ]
+        },
+        {
+            "path": "src/Grids/Selectors/104/AmountContainer/AmountContainer.tsx",
+            "zeplinNames": [
+                "Grids/Selectors/104/Amount"
+            ]
+        },
+        {
+            "path": "src/Resources/Grids/104/Amount/Amount.tsx",
+            "zeplinNames": [
+                "Ι🔒Resources/Grids/104/AmountActive",
+                "Ι🔒Resources/Grids/104/AmountSelected"
+            ]
+        },
+        {
+            "path": "src/Buttons/Link/Link.tsx",
+            "zeplinNames": [
+                "Buttons/3.Link/Pressed",
+                "Buttons/3.Link/Normal",
+                "Buttons/3.Link/Disabled"
+            ]
+        },
+        {
+            "path": "src/Assets/64/NotificationInfo/NotificationInfo.tsx",
+            "zeplinNames": [
+                "Assets/64/NotificationInfo"
+            ]
+        },
+        {
+            "path": "src/Feedbacks/InformativeScreen/SingleButton/SingleButton.tsx",
+            "zeplinNames": [
+                "Feedbacks/InformativeScreen 🚫 [USE FROM BRANDS LIBRARIES]/SingleButton"
+            ]
+        },
+        {
+            "path": "src/Buttons/ButtonLayouts/ButtonFixedFooterLayout/ButtonLink/ButtonLink.tsx",
+            "zeplinNames": [
+                "Buttons/ButtonLayouts/ButtonFixedFooterLayout/ButtonLink"
+            ]
+        },
+        {
+            "path": "src/Texts/Basics/Left/Paragraph16/Paragraph16.tsx",
+            "zeplinNames": [
+                "Texts/Basics/Left/Paragraph16"
+            ]
+        },
+        {
+            "path": "src/InputFileds/Text/Text.tsx",
+            "zeplinNames": [
+                "Input Fields/Text/○ InactiveError",
+                "Input Fields/Text/○ InactiveHelp",
+                "Input Fields/Text/○ Inactive",
+                "Input Fields/Text/☞ FocusedError",
+                "Input Fields/Text/● Activated",
+                "Input Fields/Text/☞ Focused",
+                "Input Fields/Text/☞ FocusedHelp",
+                "Input Fields/Text/● ActivatedHelp",
+                "Input Fields/Text/● ActivatedError"
+            ]
+        },
+        {
+            "path": "src/InputFileds/Icon/Icon.tsx",
+            "zeplinNames": [
+                "Input Fields/Icon/○ InactiveError",
+                "Input Fields/Icon/○ InactiveHelp",
+                "Input Fields/Icon/○ Inactive",
+                "Input Fields/Icon/☞ FocusedError",
+                "Input Fields/Icon/● Activated",
+                "Input Fields/Icon/☞ Focused",
+                "Input Fields/Icon/☞ FocusedHelp",
+                "Input Fields/Icon/● ActivatedHelp",
+                "Input Fields/Icon/● ActivatedError"
+            ]
+        },
+        {
+            "path": "src/InputFileds/Password/Password.tsx",
+            "zeplinNames": [
+                "Input Fields/Password/○ InactiveError",
+                "Input Fields/Password/○ InactiveHelp",
+                "Input Fields/Password/○ Inactive",
+                "Input Fields/Password/☞ FocusedError",
+                "Input Fields/Password/● Activated",
+                "Input Fields/Password/☞ Focused",
+                "Input Fields/Password/☞ FocusedHelp",
+                "Input Fields/Password/● ActivatedHelp",
+                "Input Fields/Password/● ActivatedError"
+            ]
+        },
+        {
+            "path": "src/Assets/32/AskTopupBalance/AskTopupBalance.tsx",
+            "zeplinNames": [
+                "Assets/32/AskTopupBalance"
+            ]
+        },
+        {
+            "path": "src/Assets/32/GestionTickets/GestionTickets.tsx",
+            "zeplinNames": [
+                "Assets/32/GestionTickets"
+            ]
+        },
+        {
+            "path": "src/Assets/32/SendBalance/SendBalance.tsx",
+            "zeplinNames": [
+                "Assets/32/SendBalance"
+            ]
+        },
+        {
+            "path": "src/Assets/32/TopupBalanceSos/TopupBalanceSos.tsx",
+            "zeplinNames": [
+                "Assets/32/TopupBalanceSos"
+            ]
+        },
+        {
+            "path": "src/Assets/32/TopupCreditcard/TopupCreditcard.tsx",
+            "zeplinNames": [
+                "Assets/32/TopupCreditcard"
+            ]
+        },
+        {
+            "path": "src/Assets/32/TopupMercadopagoBalance/TopupMercadopagoBalance.tsx",
+            "zeplinNames": [
+                "Assets/32/topupMercadopagoBalance"
+            ]
+        },
+        {
+            "path": "src/Assets/32/TopupPrepaidcard/TopupPrepaidcard.tsx",
+            "zeplinNames": [
+                "Assets/32/TopupPrepaidcard"
+            ]
+        },
+        {
+            "path": "src/Assets/64/NotificationOkPositive/NotificationOkPositive.tsx",
+            "zeplinNames": [
+                "Assets/64/NotificationOkPositive"
+            ]
+        },
+        {
+            "path": "src/Assets/24/NavBar/Back/Back.tsx",
+            "zeplinNames": [
+                "Ι🔒Assets/24/NavBar/Back"
+            ]
+        },
+        {
+            "path": "src/Resources/NavBar/Left/NavBarTitle/NavBarTitle.tsx",
+            "zeplinNames": [
+                "Ι🔒Resources/NavBar/Left/Title"
+            ]
+        },
+        {
+            "path": "src/Bars/NavBar/Contextual/Contextual.tsx",
+            "zeplinNames": [
+                "Bars/NavBar/Contextual"
+            ]
+        },
+        {
+            "path": "src/Lists/Chevron/FullWidth/Asset/32/1L/OneL.tsx",
+            "zeplinNames": [
+                "Lists/Chevron/FullWidth/Asset/32/1L"
+            ]
+        },
+        {
+            "path": "src/Resources/Stepper/Liquid/Liquid.tsx",
+            "zeplinNames": [
+                "Ι🔒Resources/Stepper/Liquid/█ 10%",
+                "Ι🔒Resources/Stepper/Liquid/██ 20%",
+                "Ι🔒Resources/Stepper/Liquid/███ 30%",
+                "Ι🔒Resources/Stepper/Liquid/████ 40%",
+                "Ι🔒Resources/Stepper/Liquid/█████ 50%",
+                "Ι🔒Resources/Stepper/Liquid/██████ 60%",
+                "Ι🔒Resources/Stepper/Liquid/███████ 70%",
+                "Ι🔒Resources/Stepper/Liquid/████████ 80%",
+                "Ι🔒Resources/Stepper/Liquid/█████████ 90%",
+                "Ι🔒Resources/Stepper/Liquid/██████████ 100%"
+            ]
+        },
+        {
+            "path": "src/Buttons/Secondary/Secondary.tsx",
+            "zeplinNames": [
+                "Buttons/2.Secondary/Loading",
+                "Buttons/2.Secondary/Normal",
+                "Buttons/2.Secondary/Disabled",
+                "Buttons/2.Secondary/Inverse/Normal",
+                "Buttons/2.Secondary/Inverse/Loading",
+                "Buttons/2.Secondary/Inverse/Disabled"
+            ]
+        },
+        {
+            "path": "src/Buttons/ButtonLayouts/ButtonFullwidthLayout/2Buttons/TwoButton.tsx",
+            "zeplinNames": [
+                "Buttons/ButtonLayouts/ButtonFullwidthLayout/2Buttons"
+            ]
+        },
+        {
+            "path": "src/Feedbacks/SuccessScreen/2Button/DualButton.tsx",
+            "zeplinNames": [
+                "Feedbacks/SuccessScreen 🚫 [USE FROM BRANDS LIBRARIES]/2Buttons"
+            ]
+        },
+        {
+            "path": "src/Lists/Amount/NoAsset/TwoL/TwoL.tsx",
+            "zeplinNames": [
+                "Lists/Amount/NoAsset/2L"
+            ]
+        },
+        {
+            "path": "src/Buttons/ButtonLayouts/ButtonLayout/1Button/Center/OneButtonCenter.tsx",
+            "zeplinNames": [
+                "Buttons/ButtonLayouts/ButtonLayout/1Button/Center"
+            ]
+        },
+        {
+            "path": "src/Stepper/Liquid/NoTitle/NoTitle.tsx",
+            "zeplinNames": [
+                "Stepper/Liquid/NoTitle"
+            ]
+        },
+        {
+            "path": "src/Resources/Layout/TopBottom8/TopBottom8.tsx",
+            "zeplinNames": [
+                "Ι🔒Resources/Layout/TopBottom8"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Fiber/Fiber.tsx",
+            "zeplinNames": [
+                "Assets/24/Fiber"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Call/Call.tsx",
+            "zeplinNames": [
+                "Assets/24/Call"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Gsm_Blue/Gsm_Blue.tsx",
+            "zeplinNames": [
+                "Assets/24/Gsm_Blue"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Fourg/Fourg.tsx",
+            "zeplinNames": [
+                "Assets/24/Fourg"
+            ]
+        },
+        {
+            "path": "src/Texts/Basics/Center/Titles/Title16/TitleSixteen.tsx",
+            "zeplinNames": [
+                "Texts/Basics/Center/Titles/Title16"
+            ]
+        },
+        {
+            "path": "src/Lists/Chevron/FullWidth/Asset/24/1L/OneL.tsx",
+            "zeplinNames": [
+                "Lists/Chevron/FullWidth/Asset/24/1L"
+            ]
+        },
+        {
+            "path": "src/Assets/32/Bills/Bills.tsx",
+            "zeplinNames": [
+                "Assets/32/Bills"
+            ]
+        },
+        {
+            "path": "src/Texts/Basics/Center/14R/Text14R.tsx",
+            "zeplinNames": [
+                "Texts/Basics/Center/14R"
+            ]
+        },
+        {
+            "path": "src/Resources/Layout/Bottom16/Bottom16.tsx",
+            "zeplinNames": [
+                "Ι🔒Resources/Layout/Bottom16"
+            ]
+        },
+        {
+            "path": "src/Feedbacks/ErrorScreen/2Button/DualButton.tsx",
+            "zeplinNames": [
+                "Feedbacks/ErrorScreen 🚫 [USE FROM BRANDS LIBRARIES]/2Buttons"
+            ]
+        },
+        {
+            "path": "src/Assets/32/LayoutChatSupport/LayoutChatSupport.tsx",
+            "zeplinNames": [
+                "Assets/32/LayoutChatSupport"
+            ]
+        },
+        {
+            "path": "src/Layouts/Dashboard/Dashboard.tsx",
+            "zeplinNames": [
+                "🔨 Layouts/Dashboard"
+            ]
+        },
+        {
+            "path": "src/Illustrations/Hada/Hada.tsx",
+            "zeplinNames": [
+                "Illustrations/Hada"
+            ]
+        },
+        {
+            "path": "src/Resources/ServiceError/TitleServiceError/TitleServiceError.tsx",
+            "zeplinNames": [
+                "Ι🔒Resources/ServiceError/TitleServiceError"
+            ]
+        },
+        {
+            "path": "src/Feedbacks/InformativeScreen/2Button/DualButton.tsx",
+            "zeplinNames": [
+                "Feedbacks/InformativeScreen 🚫 [USE FROM BRANDS LIBRARIES]/2Buttons"
+            ]
+        },
+        {
+            "path": "src/LoadingIndicators/ServiceError/ServiceError.tsx",
+            "zeplinNames": [
+                "Loading Indicators/ServiceError"
+            ]
+        },
+        {
+            "path": "src/Resources/EmptyStates/BulletList/BulletList.tsx",
+            "zeplinNames": [
+                "Ι🔒Resources/EmptyStates/BulletList"
+            ]
+        },
+        {
+            "path": "src/Resources/EmptyStates/BulletOneRowLinkTerm/BulletOneRowLinkTerm.tsx",
+            "zeplinNames": [
+                "Ι🔒Resources/EmptyStates/BulletOneRowLinkTerm"
+            ]
+        },
+        {
+            "path": "src/Controls/Checkbox/Checkbox.tsx",
+            "zeplinNames": [
+                "Controls/Checkbox"
+            ]
+        },
+        {
+            "path": "src/Texts/Basics/Left/Titles/Title14M/Title14M.tsx",
+            "zeplinNames": [
+                "Texts/Basics/Left/Titles/Title14M"
+            ]
+        },
+        {
+            "path": "src/Resources/ListsChevron/Right/Chevron/RightChevron.tsx",
+            "zeplinNames": [
+                "Ι🔒Resources/ListsChevron/Right/Chevron"
+            ]
+        },
+        {
+            "path": "src/Resources/ListsChevron/Text14R/Secondary/Text14R.tsx",
+            "zeplinNames": [
+                "Ι🔒Resources/ListsChevron/Text14R_Secondary"
+            ]
+        },
+        {
+            "path": "src/Assets/Placeholder/40/PlaceHolder.tsx",
+            "zeplinNames": [
+                "Ι🔒Assets/Placeholder/40"
+            ]
+        },
+        {
+            "path": "src/Assets/40/Mobile/Mobile.tsx",
+            "zeplinNames": [
+                "Assets/40/Mobile"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Mobile/Mobile.tsx",
+            "zeplinNames": [
+                "Assets/24/Mobile"
+            ]
+        },
+        {
+            "path": "src/Lists/Chevron/FullWidth/Asset/40/2L/TwoL.tsx",
+            "zeplinNames": [
+                "Lists/Chevron/FullWidth/Asset/40/2L"
+            ]
+        },
+        {
+            "path": "src/Assets/36/DataGrey/DataGrey.tsx",
+            "zeplinNames": [
+                "Assets/36/DataGrey"
+            ]
+        },
+        {
+            "path": "src/Assets/36/GSM_GreenGrey/GSM_GreenGrey.tsx",
+            "zeplinNames": [
+                "Assets/36/Gsm_GreenGrey"
+            ]
+        },
+        {
+            "path": "src/Lists/RadioButton/Boxed/Asset/40/2L/TwoL.tsx",
+            "zeplinNames": [
+                "Lists/RadioButton/Boxed/Asset/40/2L"
+            ]
+        },
+        {
+            "path": "src/Lists/Text/Asset/40/2L/TwoL.tsx",
+            "zeplinNames": [
+                "Lists/Text/Asset/40/2L"
+            ]
+        },
+        {
+            "path": "src/Assets/32/Paquetizate/Paquetizate.tsx",
+            "zeplinNames": [
+                "Assets/32/Paquetizate"
+            ]
+        },
+        {
+            "path": "src/Illustrations/Lists/Lists.tsx",
+            "zeplinNames": [
+                "Illustrations/lists"
+            ]
+        },
+        {
+            "path": "src/Resources/Massa/Massa.tsx",
+            "zeplinNames": [
+                "Ι🔒Resources/Massa"
+            ]
+        },
+        {
+            "path": "src/Assets/32/Roaming/Roaming.tsx",
+            "zeplinNames": [
+                "Assets/32/Roaming"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Close/Close.tsx",
+            "zeplinNames": [
+                "Ι🔒Assets/24/Close"
+            ]
+        },
+        {
+            "path": "src/Assets/24/NavBar/CloseInverse/CloseInverse.tsx",
+            "zeplinNames": [
+                "Ι🔒Assets/24/NavBar/CloseInverse"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Chevron/Link/Link.tsx",
+            "zeplinNames": [
+                "Ι🔒Assets/24/Chevron/Link"
+            ]
+        },
+        {
+            "path": "src/Buttons/ThreeLink/ThreeLink.tsx",
+            "zeplinNames": [
+                "Buttons/3.Link/FullWidth"
+            ]
+        },
+        {
+            "path": "src/Buttons/ButtonLayouts/ButtonLayout/2Buttons/TwoButtons.tsx",
+            "zeplinNames": [
+                "Buttons/ButtonLayouts/ButtonLayout/2Buttons"
+            ]
+        },
+        {
+            "path": "src/Buttons/ButtonLayouts/ButtonFullwidthLayout/Primary/Primary.tsx",
+            "zeplinNames": [
+                "Buttons/ButtonLayouts/ButtonFullwidthLayout/Primary"
+            ]
+        },
+        {
+            "path": "src/Buttons/ButtonLayouts/ButtonFullwidthLayout/Secondary/Secondary.tsx",
+            "zeplinNames": [
+                "Buttons/ButtonLayouts/ButtonFullwidthLayout/Secondary"
+            ]
+        },
+        {
+            "path": "src/Resources/Banner/TitleBanner/TitleBanner.tsx",
+            "zeplinNames": [
+                "Ι🔒Resources/Banner/TitleBanner"
+            ]
+        },
+        {
+            "path": "src/Resources/Banner/BttnsBanner/BttnsBanner.tsx",
+            "zeplinNames": [
+                "Ι🔒Resources/Banner/BttnsBanner"
+            ]
+        },
+        {
+            "path": "src/Notifications/Banner/Banner.tsx",
+            "zeplinNames": [
+                "Notifications/Banner/Permanent",
+                "Notifications/Banner/Full"
+            ]
+        },
+        {
+            "path": "src/Labels/Background/OverImage/OverImage.tsx",
+            "zeplinNames": [
+                "Labels/Background/OverImage"
+            ]
+        },
+        {
+            "path": "src/Texts/Basics/Center/14R_Dashboard/14R_Dashboard.tsx",
+            "zeplinNames": [
+                "Texts/Basics/Center/14R_Dashboard"
+            ]
+        },
+        {
+            "path": "src/Lists/Chevron/FullWidth/NoAsset/2L/TwoL.tsx",
+            "zeplinNames": [
+                "Lists/Chevron/FullWidth/NoAsset/2L"
+            ]
+        },
+        {
+            "path": "src/Resources/Cards/Product/Vertical/NormalPrice/NormalPrice.tsx",
+            "zeplinNames": [
+                "Ι🔒Resources/Cards/Product/Vertical/NormalPrice"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Profile/Profile.tsx",
+            "zeplinNames": [
+                "Assets/24/Profile"
+            ]
+        },
+        {
+            "path": "src/Labels/NoBackground/Highlight/Highlight.tsx",
+            "zeplinNames": [
+                "Labels/NoBackground/Highlight"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Notifications/Notifications.tsx",
+            "zeplinNames": [
+                "Assets/24/Notifications"
+            ]
+        },
+        {
+            "path": "src/Assets/24/LogOut/LogOut.tsx",
+            "zeplinNames": [
+                "Assets/24/LogOut"
+            ]
+        },
+        {
+            "path": "src/Assets/32/RecurringPackages/RecurringPackages.tsx",
+            "zeplinNames": [
+                "Assets/32/RecurringPackages"
+            ]
+        },
+        {
+            "path": "src/Assets/32/PackagesSms/PackagesSms.tsx",
+            "zeplinNames": [
+                "Assets/32/PackagesSms"
+            ]
+        },
+        {
+            "path": "src/Assets/32/InternationalVd/InternationalVd.tsx",
+            "zeplinNames": [
+                "Assets/32/InternationalVd"
+            ]
+        },
+        {
+            "path": "src/Assets/32/PackagesMinutes/PackagesMinutes.tsx",
+            "zeplinNames": [
+                "Assets/32/PackagesMinutes"
+            ]
+        },
+        {
+            "path": "src/Assets/96/CameraCircleGrey/CameraCircleGrey.tsx",
+            "zeplinNames": [
+                "Assets/96/Camera_CircleGrey"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Lock/Lock.tsx",
+            "zeplinNames": [
+                "Assets/24/Lock"
+            ]
+        },
+        {
+            "path": "src/Texts/Compositions/Center/Dashboard/TitleSubtitle/TitleSubtitle.tsx",
+            "zeplinNames": [
+                "Texts/Compositions/Center/Dashboard/TitleSubtitle"
+            ]
+        },
+        {
+            "path": "src/Assets/64/Camera_Circle/Camera_Circle.tsx",
+            "zeplinNames": [
+                "Assets/64/Camera_Circle"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Bell/Bell.tsx",
+            "zeplinNames": [
+                "Assets/24/Bell"
+            ]
+        },
+        {
+            "path": "src/Dividers/SlimLineFullWidth/SlimLineFullWidth.tsx",
+            "zeplinNames": [
+                "Dividers/SlimLineFullWidth"
+            ]
+        },
+        {
+            "path": "src/Assets/40/Computer/Computer.tsx",
+            "zeplinNames": [
+                "Assets/40/Computer"
+            ]
+        },
+        {
+            "path": "src/Controls/CheckboxOff/CheckboxOff.tsx",
+            "zeplinNames": [
+                "Controls/CheckboxOff"
+            ]
+        },
+        {
+            "path": "src/Assets/40/Smartphone/Smartphone.tsx",
+            "zeplinNames": [
+                "Assets/40/Smartphone"
+            ]
+        },
+        {
+            "path": "src/Texts/Basics/Left/Titles/Title16/Title16.tsx",
+            "zeplinNames": [
+                "Texts/Basics/Left/Titles/Title16"
+            ]
+        },
+        {
+            "path": "src/Texts/Basics/Left/Titles/Title20/Title20.tsx",
+            "zeplinNames": [
+                "Texts/Basics/Left/Titles/Title20"
+            ]
+        },
+        {
+            "path": "src/Texts/Basics/Left/Titles/Title24/Title24.tsx",
+            "zeplinNames": [
+                "Texts/Basics/Left/Titles/Title24"
+            ]
+        },
+        {
+            "path": "src/Controls/CheckboxOn/CheckboxOn.tsx",
+            "zeplinNames": [
+                "Controls/CheckboxOn"
+            ]
+        },
+        {
+            "path": "src/Lists/RadioButton/FullWidth/Asset/40/2L/TwoL.tsx",
+            "zeplinNames": [
+                "Lists/RadioButton/FullWidth/Asset/40/2L"
+            ]
+        },
+        {
+            "path": "src/Buttons/ButtonLayouts/ButtonFixedFooterLayout/2Buttons/TwoButton.tsx",
+            "zeplinNames": [
+                "Buttons/ButtonLayouts/ButtonFixedFooterLayout/2Buttons"
+            ]
+        },
+        {
+            "path": "src/Lists/Switch/FullWidth/NoAsset/OneL/OneL.tsx",
+            "zeplinNames": [
+                "Lists/Switch/FullWidth/NoAsset/1L"
+            ]
+        },
+        {
+            "path": "src/Illustrations/NotComboActive/NotComboActive.tsx",
+            "zeplinNames": [
+                "Illustrations/NotComboActive"
+            ]
+        },
+        {
+            "path": "src/Dialogs/Modal/Modal.tsx",
+            "zeplinNames": [
+                "Dialogs/Title",
+                "Dialogs/Desktop/Modal/1Button",
+                "Dialogs/Desktop/Modal/2Buttons",
+                "Resources/Dialogs/Modals/Content/1Button",
+                "Resources/Dialogs/Modals/Content/2Buttons"
+            ]
+        },
+        {
+            "path": "src/Dialogs/Modal/ModalTitle/ModalTitle.tsx",
+            "zeplinNames": [
+                "Resources/Dialogs/Title"
+            ]
+        },
+        {
+            "path": "src/Dialogs/Modal/ModalParagraph/ModalParagraph.tsx",
+            "zeplinNames": [
+                "Resources/Dialogs/ModalParagraph"
+            ]
+        },
+        {
+            "path": "src/Texts/Basics/Left/SectionTitle_Header/SectionTitle_Header.tsx",
+            "zeplinNames": [
+                "Texts/Basics/Left/SectionTitle_Header"
+            ]
+        },
+        {
+            "path": "src/Assets/64/OpenIssues/OpenIssues.tsx",
+            "zeplinNames": [
+                "Assets/64/OpenIssues"
+            ]
+        },
+        {
+            "path": "src/Assets/40/SupportChat/SupportChat.tsx",
+            "zeplinNames": [
+                "Assets/40/SupportChat"
+            ]
+        },
+        {
+            "path": "src/Layouts/Boxed/Boxed.tsx",
+            "zeplinNames": [
+                "🔨 Layouts/Boxed"
+            ]
+        },
+        {
+            "path": "src/Lists/Chevron/Boxed/Asset/40/2L/TwoL.tsx",
+            "zeplinNames": [
+                "Lists/Chevron/Boxed/Asset/40/2L"
+            ]
+        },
+        {
+            "path": "src/Grids/Buttons/48/Three/ThreeContainer.tsx",
+            "zeplinNames": [
+                "Grids/Buttons/48/3"
+            ]
+        },
+        {
+            "path": "src/Texts/Compositions/Center/Header/TitleSubTitle/TitleSubtitle.tsx",
+            "zeplinNames": [
+                "Texts/Compositions/Center/Header/TitleSubtitle"
+            ]
+        },
+        {
+            "path": "src/Assets/32/Mobile/Mobile.tsx",
+            "zeplinNames": [
+                "Assets/32/Mobile"
+            ]
+        },
+        {
+            "path": "src/Resources/MassaGrey/slim/MassaGreySlim.tsx",
+            "zeplinNames": [
+                "Ι🔒Resources/MassaGrey/slim"
+            ]
+        },
+        {
+            "path": "src/Texts/Basics/Center/Titles/Title16_Dashboard/Title16_Dashboard.tsx",
+            "zeplinNames": [
+                "Texts/Basics/Center/Titles/Title16_Dashboard"
+            ]
+        },
+        {
+            "path": "src/Assets/40/Landline/Landline.tsx",
+            "zeplinNames": [
+                "Assets/40/Landline"
+            ]
+        },
+        {
+            "path": "src/Controls/CheckboxBlue/CheckboxBlue.tsx",
+            "zeplinNames": [
+                "Controls/CheckboxBlue"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Chevron/Top/Top.tsx",
+            "zeplinNames": [
+                "Assets/24/Chevron/Top"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Chevron/Down/Down.tsx",
+            "zeplinNames": [
+                "Assets/24/Chevron/Down"
+            ]
+        },
+        {
+            "path": "src/Assets/24/LayoutTariffs/LayoutTariffs.tsx",
+            "zeplinNames": [
+                "Assets/24/LayoutTariffs"
+            ]
+        },
+        {
+            "path": "src/Assets/40/Internet/Internet.tsx",
+            "zeplinNames": [
+                "Assets/40/Internet"
+            ]
+        },
+        {
+            "path": "src/Assets/36/SmsGrey/SmsGrey.tsx",
+            "zeplinNames": [
+                "Assets/36/SmsGrey"
+            ]
+        },
+        {
+            "path": "src/Assets/40/Allproducts/Allproducts.tsx",
+            "zeplinNames": [
+                "Assets/40/Allproducts"
+            ]
+        },
+        {
+            "path": "src/Assets/40/LandlineAndInternet/LandlineAndInternet.tsx",
+            "zeplinNames": [
+                "Assets/40/LandlineAndInternet"
+            ]
+        },
+        {
+            "path": "src/Lists/Chevron/Boxed/Asset/40/1L/OneL.tsx",
+            "zeplinNames": [
+                "Lists/Chevron/Boxed/Asset/40/1L"
+            ]
+        },
+        {
+            "path": "src/Texts/Basics/Left/QuestionHeader/QuestionHeader.tsx",
+            "zeplinNames": [
+                "Texts/Basics/Left/Question_Header"
+            ]
+        },
+        {
+            "path": "src/Illustrations/WithoutRecomendations/WithoutRecomendations.tsx",
+            "zeplinNames": [
+                "Illustrations/Without-recomendations"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Paquetizate/Paquetizate.tsx",
+            "zeplinNames": [
+                "Assets/24/Paquetizate"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Roaming/Roaming.tsx",
+            "zeplinNames": [
+                "Assets/24/Roaming"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Multiplica/Multiplica.tsx",
+            "zeplinNames": [
+                "Assets/24/Multiplica"
+            ]
+        },
+        {
+            "path": "src/Assets/32/Multiplica/Multiplica.tsx",
+            "zeplinNames": [
+                "Assets/32/Multiplica"
+            ]
+        },
+        {
+            "path": "src/Assets/24/InternationalVd/InternationalVd.tsx",
+            "zeplinNames": [
+                "Assets/24/InternationalVd"
+            ]
+        },
+        {
+            "path": "src/Assets/24/ArmYourPackage/ArmYourPackage.tsx",
+            "zeplinNames": [
+                "Assets/24/ArmYourPackage"
+            ]
+        },
+        {
+            "path": "src/Assets/32/ArmYourPackage/ArmYourPackage.tsx",
+            "zeplinNames": [
+                "Assets/32/ArmYourPackage"
+            ]
+        },
+        {
+            "path": "src/Assets/40/Tv/Tv.tsx",
+            "zeplinNames": [
+                "Assets/40/Tv"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Contest/Contest.tsx",
+            "zeplinNames": [
+                "Assets/24/Contest"
+            ]
+        },
+        {
+            "path": "src/Assets/24/DeviceUpgrade/DeviceUpgrade.tsx",
+            "zeplinNames": [
+                "Assets/24/DeviceUpgrade"
+            ]
+        },
+        {
+            "path": "src/Assets/24/AdditionalLine/AdditionalLine.tsx",
+            "zeplinNames": [
+                "Assets/24/AdditionalLine"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Talk/Talk.tsx",
+            "zeplinNames": [
+                "Assets/24/Talk"
+            ]
+        },
+        {
+            "path": "src/Assets/24/ClubMovistar/ClubMovistar.tsx",
+            "zeplinNames": [
+                "Assets/24/ClubMovistar"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Shop/Shop.tsx",
+            "zeplinNames": [
+                "Assets/24/Shop"
+            ]
+        },
+        {
+            "path": "src/Assets/24/PassGigabytes/PassGigabytes.tsx",
+            "zeplinNames": [
+                "Assets/24/PassGigabytes"
+            ]
+        },
+        {
+            "path": "src/Assets/24/ChangeTariff/ChangeTariff.tsx",
+            "zeplinNames": [
+                "Assets/24/ChangeTariff"
+            ]
+        },
+        {
+            "path": "src/Assets/24/TestDrive/TestDrive.tsx",
+            "zeplinNames": [
+                "Assets/24/TestDrive"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Family/Family.tsx",
+            "zeplinNames": [
+                "Assets/24/Family"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Notice/Notice.tsx",
+            "zeplinNames": [
+                "Assets/24/Notice"
+            ]
+        },
+        {
+            "path": "src/Assets/24/AskGigabytes/AskGigabytes.tsx",
+            "zeplinNames": [
+                "Assets/24/AskGigabytes"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Credit/Credit.tsx",
+            "zeplinNames": [
+                "Assets/24/Credit"
+            ]
+        },
+        {
+            "path": "src/Assets/24/PaymentPlaces/PaymentPlaces.tsx",
+            "zeplinNames": [
+                "Assets/24/PaymentPlaces"
+            ]
+        },
+        {
+            "path": "src/Assets/24/TopupInvoice/TopupInvoice.tsx",
+            "zeplinNames": [
+                "Assets/24/TopupInvoice"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Help/Help.tsx",
+            "zeplinNames": [
+                "Assets/24/Help"
+            ]
+        },
+        {
+            "path": "src/Assets/24/DeviceConfiguration/DeviceConfiguration.tsx",
+            "zeplinNames": [
+                "Assets/24/DeviceConfiguration"
+            ]
+        },
+        {
+            "path": "src/Assets/24/ConnectionTest/ConnectionTest.tsx",
+            "zeplinNames": [
+                "Assets/24/ConnectionTest"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Warranty/Warranty.tsx",
+            "zeplinNames": [
+                "Assets/24/Warranty"
+            ]
+        },
+        {
+            "path": "src/Assets/24/PremiumSms/PremiumSms.tsx",
+            "zeplinNames": [
+                "Assets/24/PremiumSms"
+            ]
+        },
+        {
+            "path": "src/EmptyStates/Illustration/Button/Button.tsx",
+            "zeplinNames": [
+                "Empty States/Illustration/Button"
+            ]
+        },
+        {
+            "path": "src/Controls/RadioOff/RadioOff.tsx",
+            "zeplinNames": [
+                "Controls/RadioOff"
+            ]
+        },
+        {
+            "path": "src/Controls/RadioOn/RadioOn.tsx",
+            "zeplinNames": [
+                "Controls/RadioOn"
+            ]
+        },
+        {
+            "path": "src/Lists/RadioButton/FullWidth/NoAsset/1L/OneL.tsx",
+            "zeplinNames": [
+                "Lists/RadioButton/FullWidth/NoAsset/1L"
+            ]
+        },
+        {
+            "path": "src/Assets/64/LayoutGood/LayoutGood.tsx",
+            "zeplinNames": [
+                "Assets/64/LayoutGood"
+            ]
+        },
+        {
+            "path": "src/Resources/Buttons/Primary/Loading/Loading.tsx",
+            "zeplinNames": [
+                "Ι🔒Resources/Buttons/Primary/Loading"
+            ]
+        },
+        {
+            "path": "src/Illustrations/Reconection/Reconection.tsx",
+            "zeplinNames": [
+                "Illustrations/reconection"
+            ]
+        },
+        {
+            "path": "src/Lists/Text/Mini/Asset/Alternative/Alternative.tsx",
+            "zeplinNames": [
+                "Lists/Text/Mini/Asset/Alternative"
+            ]
+        },
+        {
+            "path": "src/Assets/24/AlertWarning/AlertWarning.tsx",
+            "zeplinNames": [
+                "Assets/24/AlertWarning"
+            ]
+        },
+        {
+            "path": "src/Assets/40/ProductPlaceholder01/ProductPlaceholder01.tsx",
+            "zeplinNames": [
+                "Assets/40/ProductPlaceholder01"
+            ]
+        },
+        {
+            "path": "src/Lists/Text/NoAsset/TwoL/TwoL.tsx",
+            "zeplinNames": [
+                "Lists/Text/NoAsset/2L"
+            ]
+        },
+        {
+            "path": "src/Assets/24/LayoutRegular/LayoutRegular.tsx",
+            "zeplinNames": [
+                "Assets/24/LayoutRegular"
+            ]
+        },
+        {
+            "path": "src/Resources/Charts/Circular/Text/Texts/Texts.tsx",
+            "zeplinNames": [
+                "Ι🔒Resources/Charts/Circular/Text/Texts/28LTop",
+                "Ι🔒Resources/Charts/Circular/Text/Texts/28L",
+                "Ι🔒Resources/Charts/Circular/Text/Texts/28LBottom",
+                "Ι🔒Resources/Charts/Circular/Text/Texts/24L",
+                "Ι🔒Resources/Charts/Circular/Text/Texts/20L"
+            ]
+        },
+        {
+            "path": "src/Charts/CircularText/CircularText.tsx",
+            "zeplinNames": [
+                "Charts/CircularText (160)/1Color/████████ 80%",
+                "Charts/CircularText (160)/1Color/|0%",
+                "Charts/CircularText (160)/1Color/████ 40%",
+                "Charts/CircularText (160)/1Color/██ 20%",
+                "Charts/CircularText (160)/1Color/██████████ 100%",
+                "Charts/CircularText (160)/2Colors/40% - 70%"
+            ]
+        },
+        {
+            "path": "src/Buttons/Secondary/Small/Small.tsx",
+            "zeplinNames": [
+                "Buttons/2.Secondary/Small/Disabled",
+                "Buttons/2.Secondary/Small/Normal",
+                "Buttons/2.Secondary/Small/Inverse/Pressed",
+                "Buttons/2.Secondary/Small/Inverse/Disabled",
+                "Buttons/2.Secondary/Small/Inverse/- Normal"
+            ]
+        },
+        {
+            "path": "src/Cards/HighlightedCard/Colorful/SecondaryText/SecondaryText.tsx",
+            "zeplinNames": [
+                "Cards/HighlightedCard/Colorful/SecondaryText"
+            ]
+        },
+        {
+            "path": "src/Carousel/CarouselControl/CarouselControl.tsx",
+            "zeplinNames": [
+                "Carousel/CarouselControl/2/1.●○",
+                "Carousel/CarouselControl/2/2.○●",
+                "Carousel/CarouselControl/3/1.●○○",
+                "Carousel/CarouselControl/3/2.○●○",
+                "Carousel/CarouselControl/3/3.○○●",
+                "Carousel/CarouselControl/4/1.●○○○",
+                "Carousel/CarouselControl/4/2.○●○○",
+                "Carousel/CarouselControl/4/3.○○●○",
+                "Carousel/CarouselControl/4/4.○○○●"
+            ]
+        },
+        {
+            "path": "src/Cards/Image/Image.tsx",
+            "zeplinNames": [
+                "Cards/Image"
+            ]
+        },
+        {
+            "path": "src/Tabs/Menu/Menu.tsx",
+            "zeplinNames": [
+                "Ι🔒Resources/Tabs/Menu/50_Enable"
+            ]
+        },
+        {
+            "path": "src/Labels/Background/Tag/Tag.tsx",
+            "zeplinNames": [
+                "Labels/Background/Tag"
+            ]
+        },
+        {
+            "path": "src/Assets/40/Carousel/Arrows/Right/Right.tsx",
+            "zeplinNames": [
+                "Assets/40/Carousel/Arrows/Right"
+            ]
+        },
+        {
+            "path": "src/Assets/40/Carousel/Arrows/Left/Left.tsx",
+            "zeplinNames": [
+                "Assets/40/Carousel/Arrows/Left"
+            ]
+        },
+        {
+            "path": "src/Carousel/Charts/CarouselCharts.tsx",
+            "zeplinNames": [
+                "Carousel/Charts"
+            ]
+        },
+        {
+            "path": "src/Lists/Text/NoAsset/TwoLPrice/TwoLPrice.tsx",
+            "zeplinNames": [
+                "Lists/Text/NoAsset/2L&price"
+            ]
+        },
+        {
+            "path": "src/Cards/Plan/Plan.tsx",
+            "zeplinNames": [
+                "Cards/Plan"
+            ]
+        },
+        {
+            "path": "src/Buttons/Primary/Small/Small.tsx",
+            "zeplinNames": [
+                "Buttons/1.Primary/Small/Inverse/Disabled",
+                "Buttons/1.Primary/Small/Normal",
+                "Buttons/1.Primary/Small/Inverse/Normal",
+                "Buttons/1.Primary/Small/Inverse/Pressed",
+                "Buttons/1.Primary/Small/Disabled",
+                "Buttons/1.Primary/Small/Pressed"
+            ]
+        },
+        {
+            "path": "src/Dialogs/NoTitle/NoTitle.tsx",
+            "zeplinNames": [
+                "Dialogs/NoTitle"
+            ]
+        },
+        {
+            "path": "src/Dialogs/Title/Title.tsx",
+            "zeplinNames": [
+                "Dialogs/Title"
+            ]
+        },
+        {
+            "path": "src/Resources/Grids/104/IconActive/IconActive.tsx",
+            "zeplinNames": [
+                "Ι🔒Resources/Grids/104/IconActive"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Television/Television.tsx",
+            "zeplinNames": [
+                "Assets/24/Television"
+            ]
+        },
+        {
+            "path": "src/Assets/24/MovistarTv/MovistarTv.tsx",
+            "zeplinNames": [
+                "Assets/24/MovistarTV"
+            ]
+        },
+        {
+            "path": "src/Assets/32/MovistarTv/MovistarTv.tsx",
+            "zeplinNames": [
+                "Assets/32/MovistarTV"
+            ]
+        },
+        {
+            "path": "src/Assets/40/MovistarTv/MovistarTv.tsx",
+            "zeplinNames": [
+                "Assets/40/MovistarTV"
+            ]
+        },
+        {
+            "path": "src/Assets/24/RoamingInfo/RoamingInfo.tsx",
+            "zeplinNames": [
+                "Assets/24/RoamingInfo"
+            ]
+        },
+        {
+            "path": "src/Assets/24/SaveGigabytes/SaveGigabytes.tsx",
+            "zeplinNames": [
+                "Assets/24/SaveGigabytes"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Bills/Bills.tsx",
+            "zeplinNames": [
+                "Assets/24/Bills"
+            ]
+        },
+        {
+            "path": "src/Cards/Plans/List/Bullet/Bullet.tsx",
+            "zeplinNames": [
+                "Ι🔒Resources/Cards/Plans/Lists/Bullet/Active",
+                "Ι🔒Resources/Cards/Plans/Lists/Bullet/Inactive"
+            ]
+        },
+        {
+            "path": "src/Cards/Plans/List/Bullet/Highlight/Highlight.tsx",
+            "zeplinNames": [
+                "Ι🔒Resources/Cards/Plans/Lists/Bullet/Active",
+                "Ι🔒Resources/Cards/Plans/Lists/Bullet/Inactive"
+            ]
+        },
+        {
+            "path": "src/Cards/Plans/List/Bullet/Highlight/Highlight.tsx",
+            "zeplinNames": [
+                "Ι🔒Resources/Cards/Plans/Lists/Bullet/Highlight/First",
+                "Ι🔒Resources/Cards/Plans/Lists/Bullet/Highlight/Other"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCardsFee/CreditCardsFee.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCardsFee"
+            ]
+        },
+        {
+            "path": "src/Assets/32/TopupInvoice/TopupInvoice.tsx",
+            "zeplinNames": [
+                "Assets/32/TopupInvoice"
+            ]
+        },
+        {
+            "path": "src/Assets/32/SendBalanceMagenta/SendBalanceMagenta.tsx",
+            "zeplinNames": [
+                "Assets/32/SendBalanceMagenta"
+            ]
+        },
+        {
+            "path": "src/Assets/32/Television/Television.tsx",
+            "zeplinNames": [
+                "Assets/32/Television"
+            ]
+        },
+        {
+            "path": "src/Assets/32/Whatsapp/Whatsapp.tsx",
+            "zeplinNames": [
+                "Assets/32/Whatsapp"
+            ]
+        },
+        {
+            "path": "src/Assets/32/MovistarPlay/MovistarPlay.tsx",
+            "zeplinNames": [
+                "Assets/32/MovistarPlay"
+            ]
+        },
+        {
+            "path": "src/Assets/24/RecomendationOk/Recomendation.tsx",
+            "zeplinNames": [
+                "Assets/24/recomendacionOk"
+            ]
+        },
+        {
+            "path": "src/Illustrations/104/EmptyBills/EmptyBills.tsx",
+            "zeplinNames": [
+                "Illustrations/104/EmptyBills"
+            ]
+        },
+        {
+            "path": "src/Assets/40/SendBalanceMagenta/SendBalanceMagenta.tsx",
+            "zeplinNames": [
+                "Assets/40/SendBalanceMagenta"
+            ]
+        },
+        {
+            "path": "src/Assets/24/NavBar/Reload/Reload.tsx",
+            "zeplinNames": [
+                "Ι🔒Assets/24/NavBar/Reload"
+            ]
+        },
+        {
+            "path": "src/Assets/24/LayoutInactivefourg/LayoutInactivefourg.tsx",
+            "zeplinNames": [
+                "Assets/24/LayoutInactivefourg"
+            ]
+        },
+        {
+            "path": "src/Assets/24/RecomendationX/Recomendation.tsx",
+            "zeplinNames": [
+                "Assets/24/recomendacionX"
+            ]
+        },
+        {
+            "path": "src/Assets/40/RecomendationX/Recomendation.tsx",
+            "zeplinNames": [
+                "Assets/40/recomendacionX"
+            ]
+        },
+        {
+            "path": "src/Assets/40/RecomendationOk/Recomendation.tsx",
+            "zeplinNames": [
+                "Assets/40/recomendacionOk"
+            ]
+        },
+        {
+            "path": "src/Assets/40/RecomendationPendiente/RecomendationPendiente.tsx",
+            "zeplinNames": [
+                "Assets/40/recomendacionPendiente"
+            ]
+        },
+        {
+            "path": "src/Assets/24/LayoutActivefourg/LayoutActivefourg.tsx",
+            "zeplinNames": [
+                "Assets/24/LayoutActivefourg"
+            ]
+        },
+        {
+            "path": "src/Feedbacks/ReminderScreen/SingleButton/SingleButton.tsx",
+            "zeplinNames": [
+                "Feedbacks/ReminderScreen 🚫 [USE FROM BRANDS LIBRARIES]/SingleButton"
+            ]
+        },
+        {
+            "path": "src/Assets/24/LayoutBad/LayoutBad.tsx",
+            "zeplinNames": [
+                "Assets/24/LayoutBad"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Flags/De/De.tsx",
+            "zeplinNames": [
+                "Assets/24/flag/De"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Flags/It/It.tsx",
+            "zeplinNames": [
+                "Assets/24/flag/It"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Flags/Po/Po.tsx",
+            "zeplinNames": [
+                "Assets/24/flag/Po"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Flags/Pe/Pe.tsx",
+            "zeplinNames": [
+                "Assets/24/flag/Pe"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Flags/Us/Us.tsx",
+            "zeplinNames": [
+                "Assets/24/flag/Us"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Flags/Nl/Nl.tsx",
+            "zeplinNames": [
+                "Assets/24/flag/Nl"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Flags/Pa/Pa.tsx",
+            "zeplinNames": [
+                "Assets/24/flag/Pa"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Flags/Ny/Ny.tsx",
+            "zeplinNames": [
+                "Assets/24/flag/Ny"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Flags/Gr/Gr.tsx",
+            "zeplinNames": [
+                "Assets/24/flag/Gr"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Flags/Lx/Lx.tsx",
+            "zeplinNames": [
+                "Assets/24/flag/Lx"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Flags/Mx/Mx.tsx",
+            "zeplinNames": [
+                "Assets/24/flag/Mx"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Flags/Es/Es.tsx",
+            "zeplinNames": [
+                "Assets/24/flag/Es"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Flags/Fr/Fr.tsx",
+            "zeplinNames": [
+                "Assets/24/flag/Fr"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Flags/Ec/Ec.tsx",
+            "zeplinNames": [
+                "Assets/24/flag/Ec"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Flags/Co/Co.tsx",
+            "zeplinNames": [
+                "Assets/24/flag/Co"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Flags/Cr/Cr.tsx",
+            "zeplinNames": [
+                "Assets/24/flag/Cr"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Flags/Br/Br.tsx",
+            "zeplinNames": [
+                "Assets/24/flag/Br"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Flags/Ca/Ca.tsx",
+            "zeplinNames": [
+                "Assets/24/flag/Ca"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Flags/Cl/Cl.tsx",
+            "zeplinNames": [
+                "Assets/24/flag/Cl"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Flags/Be/Be.tsx",
+            "zeplinNames": [
+                "Assets/24/flag/Be"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Flags/Bo/Bo.tsx",
+            "zeplinNames": [
+                "Assets/24/flag/Bo"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Flags/Au/Au.tsx",
+            "zeplinNames": [
+                "Assets/24/flag/Au"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/American/American.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/American"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Amex/Amex.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Amex"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Automatica/Automatica.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Automatica"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Cabal/Cabal.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Cabal"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/CabalDebit/CabalDebit.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/CabalDebit"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Credencial/Credencial.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Credencial"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Credimas/Credimas.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Credimas"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Da/Da.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Da"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Diners/Diners.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Diners"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Falabella/Falabella.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Falabella"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Kadicard/Kadicard.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Kadicard"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Mas/Mas.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Mas"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Mastercard/Mastercard.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Mastercard"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Mira/Mira.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Mira"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Naranja/Naranja.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Naranja"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/NaranjaVisa/NaranjaVisa.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/NaranjaVisa"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Nativa/Nativa.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Nativa"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/NativaFirst/NativaFirst.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/NativaFirst"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Nevada/Nevada.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Nevada"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Patagonia/Patagonia.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Patagonia"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Qida/Qida.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Qida"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/ShoppingCard/ShoppingCard.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/ShoppingCard"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Sol/Sol.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Sol"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Sucredito/Sucredito.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Sucredito"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Visa/Visa.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Visa"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/VisaDebit/VisaDebit.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/VisaDebit"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/American/American.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/American"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Amex/Amex.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Amex"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Automatica/Automatica.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Automatica"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Cabal/Cabal.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Cabal"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/CabalDebit/CabalDebit.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/CabalDebit"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Credencial/Credencial.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Credencial"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Credimas/Credimas.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Credimas"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Da/Da.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Da"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Diners/Diners.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Diners"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Falabella/Falabella.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Falabella"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Kadicard/Kadicard.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Kadicard"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Mas/Mas.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Mas"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Mastercard/Mastercard.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Mastercard"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Mira/Mira.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Mira"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Naranja/Naranja.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Naranja"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/NaranjaVisa/NaranjaVisa.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/NaranjaVisa"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Nativa/Nativa.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Nativa"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/NativaFirst/NativaFirst.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/NativaFirst"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Nevada/Nevada.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Nevada"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Patagonia/Patagonia.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Patagonia"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Qida/Qida.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Qida"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/ShoppingCard/ShoppingCard.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/ShoppingCard"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Sol/Sol.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Sol"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Sucredito/Sucredito.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Sucredito"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/Visa/Visa.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/Visa"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CreditCards/VisaDebit/VisaDebit.tsx",
+            "zeplinNames": [
+                "Assets/24/CreditCards/VisaDebit"
+            ]
+        },
+        {
+            "path": "src/Resources/Grids/104/TextActive/TextActive.tsx",
+            "zeplinNames": [
+                "Ι🔒Resources/Grids/104/TextActive"
+            ]
+        },
+        {
+            "path": "src/Lists/Text/Asset/24/1L/OneL.tsx",
+            "zeplinNames": [
+                "Lists/Text/Asset/24/1L"
+            ]
+        },
+        {
+            "path": "src/Lists/Text/Asset/24/CreditCard/1L/OneL.tsx",
+            "zeplinNames": [
+                "Lists/Text/Asset/24/CreditCard/1L"
+            ]
+        },
+        {
+            "path": "src/Lists/Text/Asset/24/CreditCard/1L/OneL.tsx",
+            "zeplinNames": [
+                "Lists/Text/Asset/24/CreditCard/1L"
+            ]
+        },
+        {
+            "path": "src/Lists/RadioButton/FullWidth/NoAsset/1LLeft/OneLLeft.tsx",
+            "zeplinNames": [
+                "Lists/RadioButton/FullWidth/NoAsset/1L-Left"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Data/Data.tsx",
+            "zeplinNames": [
+                "Assets/24/Data"
+            ]
+        },
+        {
+            "path": "src/Assets/16/IdealChip/IdealChip.tsx",
+            "zeplinNames": [
+                "Assets/16/IdealChip"
+            ]
+        },
+        {
+            "path": "src/Assets/16/Check/Check.tsx",
+            "zeplinNames": [
+                "Assets/16/Check"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Whatsapp/Whatsapp.tsx",
+            "zeplinNames": [
+                "Assets/24/Whatsapp"
+            ]
+        },
+        {
+            "path": "src/Assets/16/RecomendationChip/RecomendationChip.tsx",
+            "zeplinNames": [
+                "Assets/16/RecomendationChip"
+            ]
+        },
+        {
+            "path": "src/Illustrations/WomanDesk/WomanDesk.tsx",
+            "zeplinNames": [
+                "Illustrations/WomanDesk"
+            ]
+        },
+        {
+            "path": "src/Illustrations/EmptyError/EmptyError.tsx",
+            "zeplinNames": [
+                "Illustrations/EmptyError"
+            ]
+        },
+        {
+            "path": "src/Assets/40/GsmGreen/GsmGreen.tsx",
+            "zeplinNames": [
+                "Assets/40/Gsm_Green"
+            ]
+        },
+        {
+            "path": "src/Assets/40/FourG/FourG.tsx",
+            "zeplinNames": [
+                "Assets/40/FourG"
+            ]
+        },
+        {
+            "path": "src/Assets/40/LandLineInvoice/LandLineInvoice.tsx",
+            "zeplinNames": [
+                "Assets/40/LandLineInvoice"
+            ]
+        },
+        {
+            "path": "src/EmptyStates/Illustration/ButtonDesk/ButtonDesk.tsx",
+            "zeplinNames": [
+                "Empty States/Illustration/ButtonDesk"
+            ]
+        },
+        {
+            "path": "src/Assets/32/Credit/Credit.tsx",
+            "zeplinNames": [
+                "Assets/32/Credit"
+            ]
+        },
+        {
+            "path": "src/Assets/32/CreditCardsFee/CreditCardsFee.tsx",
+            "zeplinNames": [
+                "Assets/32/CreditCardsFee"
+            ]
+        },
+        {
+            "path": "src/Cards/Plans/Header/Header.tsx",
+            "zeplinNames": [
+                "Cards/Plans/header"
+            ]
+        },
+        {
+            "path": "src/Buttons/Link/Feedback/Feedback.tsx",
+            "zeplinNames": [
+                "Buttons/3.Link/feedback"
+            ]
+        },
+        {
+            "path": "src/Feedbacks/InformativeScreen/DescriptionLink/DescriptionLink.tsx",
+            "zeplinNames": [
+                "Feedbacks/InformativeScreen 🚫 [USE FROM BRANDS LIBRARIES]/DescriptionLink"
+            ]
+        },
+        {
+            "path": "src/Resources/Chips/Chips.tsx",
+            "zeplinNames": [
+                "Ι🔒Resources/Chips/Icons/Active",
+                "Ι🔒Resources/Chips/Icons/Inactive",
+                "Ι🔒Resources/Chips/default/Active",
+                "Ι🔒Resources/Chips/default/Inactive"
+            ]
+        },
+        {
+            "path": "src/Menu/ChipMenu/ChipMenu.tsx",
+            "zeplinNames": [
+                "Menu/ChipMenu"
+            ]
+        },
+        {
+            "path": "src/Dialogs/Items/Items.tsx",
+            "zeplinNames": [
+                "Dialogs/Items"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Dropdown/DarkDown/DarkDown.tsx",
+            "zeplinNames": [
+                "Ι🔒Assets/24/Dropdown/DarkDown"
+            ]
+        },
+        {
+            "path": "src/Dividers/SlimLineSpaces/SlimLineSpaces.tsx",
+            "zeplinNames": [
+                "Dividers/SlimLineSpaces"
+            ]
+        },
+        {
+            "path": "src/Assets/24/BulletActive/BulletActive.tsx",
+            "zeplinNames": [
+                "Assets/24/BulletActive"
+            ]
+        },
+        {
+            "path": "src/Assets/24/BulletInactive/BulletInactive.tsx",
+            "zeplinNames": [
+                "Assets/24/BulletInactive"
+            ]
+        },
+        {
+            "path": "src/Cards/ChangePlan/WithHighlightOffer/WithHighlightOffer.tsx",
+            "zeplinNames": [
+                "Cards/ChangePlan/withHighlightOffer"
+            ]
+        },
+        {
+            "path": "src/Buttons/ButtonLayouts/ButtonFixedFooterLayout/InfoButton/InfoButton.tsx",
+            "zeplinNames": [
+                "Buttons/ButtonLayouts/ButtonFixedFooterLayout/InfoButton"
+            ]
+        },
+        {
+            "path": "src/Assets/32/FrequentQuestions/FrequentQuestions.tsx",
+            "zeplinNames": [
+                "Assets/Movistar/32/FrequentQuestions"
+            ]
+        },
+        {
+            "path": "src/Illustrations/InternetTelevision/InternetTelevision.tsx",
+            "zeplinNames": [
+                "Illustrations/InternetTelevision"
+            ]
+        },
+        {
+            "path": "src/Assets/24/NavBar/BackInverse/BackInverse.tsx",
+            "zeplinNames": [
+                "Ι🔒Assets/24/NavBar/BackInverse"
+            ]
+        },
+        {
+            "path": "src/Assets/32/Internet/Internet.tsx",
+            "zeplinNames": [
+                "Assets/32/Internet_2"
+            ]
+        },
+        {
+            "path": "src/Assets/32/Landline/Landline.tsx",
+            "zeplinNames": [
+                "Assets/32/Gsm_Green"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Bell/Gray/Gray.tsx",
+            "zeplinNames": [
+                "Assets/24/Bell/Gray"
+            ]
+        },
+        {
+            "path": "src/EmptyStates/Illustration/Features/Features.tsx",
+            "zeplinNames": [
+                "Empty States/Illustration/Features"
+            ]
+        },
+        {
+            "path": "src/Illustrations/PlanPospago/PlanPospago.tsx",
+            "zeplinNames": [
+                "Illustrations/PlanPospago"
+            ]
+        },
+        {
+            "path": "src/Headers/Profile/Profile.tsx",
+            "zeplinNames": [
+                "Headers/Profile"
+            ]
+        },
+        {
+            "path": "src/Resources/MovistarBackgroundBig/MovistarBackgroundBig.tsx",
+            "zeplinNames": [
+                "Ι🔒Resources/MovistarBackgroundBig"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Envelope/Envelope.tsx",
+            "zeplinNames": [
+                "Assets/24/Envelope"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Bills_2/Bills_2.tsx",
+            "zeplinNames": [
+                "Assets/24/Bills_2"
+            ]
+        },
+        {
+            "path": "src/Notifications/Badge/Numeric/Green/Green.tsx",
+            "zeplinNames": [
+                "Notifications/Badge/Numeric/green"
+            ]
+        },
+        {
+            "path": "src/Notifications/Banner/Permanent/Text/TwoL.tsx",
+            "zeplinNames": [
+                "Notifications/Banner/Permanent/Text/2L"
+            ]
+        },
+        {
+            "path": "src/Resources/EmptyStates/BulletListOneRow/BulletListOneRow.tsx",
+            "zeplinNames": [
+                "Ι🔒Resources/EmptyStates/BulletListOneRow"
+            ]
+        },
+        {
+            "path": "src/Headers/Questions/Questions.tsx",
+            "zeplinNames": [
+                "Headers/Question"
+            ]
+        },
+        {
+            "path": "src/Controls/SwitchOn/SwitchOn.tsx",
+            "zeplinNames": [
+                "Controls/SwitchOn"
+            ]
+        },
+        {
+            "path": "src/Controls/SwitchOff/SwitchOff.tsx",
+            "zeplinNames": [
+                "Controls/SwitchOff"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CurrentTariffs/CurrentTariffs.tsx",
+            "zeplinNames": [
+                "Assets/24/CurrentTariffs"
+            ]
+        },
+        {
+            "path": "src/Stepper/Steps/NSteps/NSteps.tsx",
+            "zeplinNames": [
+                "Stepper/Steps/NSteps"
+            ]
+        },
+        {
+            "path": "src/Stepper/Steps/5Steps/FiveSteps.tsx",
+            "zeplinNames": [
+                "Stepper/Steps/5Steps"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Gift/Gift.tsx",
+            "zeplinNames": [
+                "Assets/24/Gift"
+            ]
+        },
+        {
+            "path": "src/Lists/Plans/Highlight/First",
+            "zeplinNames": [
+                "List/Plans/Highlight/First"
+            ]
+        },
+        {
+            "path": "src/Lists/Plans/Bullet/Active",
+            "zeplinNames": [
+                "List/Plans/Bullet/Active"
+            ]
+        },
+        {
+            "path": "src/Cards/HighlightedCard/LabelText/LabelText.tsx",
+            "zeplinNames": [
+                "Cards/HighlightedCard/LabelText"
+            ]
+        },
+        {
+            "path": "src/Assets/64/Message/Message.tsx",
+            "zeplinNames": [
+                "Assets/64/Message"
+            ]
+        },
+        {
+            "path": "src/Cards/HighlightedCard/PrimaryText/PrimaryText.tsx",
+            "zeplinNames": [
+                "Cards/HighlightedCard/PrimaryText"
+            ]
+        },
+        {
+            "path": "src/Cards/ModuleInformativeIconAndText/ModuleInformativeIconAndText.tsx",
+            "zeplinNames": [
+                "Cards/ModuleInformativeIconAndText"
+            ]
+        },
+        {
+            "path": "src/Resources/ListsSelection/Right/CheckON/CheckON.tsx",
+            "zeplinNames": [
+                "Ι🔒Resources/ListsSelection/Right/CheckON"
+            ]
+        },
+        {
+            "path": "src/Assets/12/BulletSublist/BulletSublist.tsx",
+            "zeplinNames": [
+                "Assets/12/BulletSublist"
+            ]
+        },
+        {
+            "path": "src/Lists/Bullet/SubList/SubList.tsx",
+            "zeplinNames": [
+                "Lists/Bullet/Sublist"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Dropdown/GrayDown/GrayDown.tsx",
+            "zeplinNames": [
+                "Ι🔒Assets/24/Dropdown/GrayDown"
+            ]
+        },
+        {
+            "path": "src/Headers/TextNumber/TextNumber.tsx",
+            "zeplinNames": [
+                "Headers/TextNumber"
+            ]
+        },
+        {
+            "path": "src/Assets/32/Warranty/Warranty.tsx",
+            "zeplinNames": [
+                "Assets/32/Warranty"
+            ]
+        },
+        {
+            "path": "src/Assets/32/SaveGigabytes/SaveGigabytes.tsx",
+            "zeplinNames": [
+                "Assets/32/SaveGigabytes"
+            ]
+        },
+        {
+            "path": "src/Assets/32/SimReplacementWhite/SimReplacementWhite.tsx",
+            "zeplinNames": [
+                "Assets/32/SimReplacementWhite"
+            ]
+        },
+        {
+            "path": "src/Assets/32/CreditWhite/CreditWhite.tsx",
+            "zeplinNames": [
+                "Assets/32/CreditWhite"
+            ]
+        },
+        {
+            "path": "src/Assets/64/NotificationInfoInverse/NotificationInfoInverse.tsx",
+            "zeplinNames": [
+                "Assets/64/NotificationInfo/inverse"
+            ]
+        },
+        {
+            "path": "src/Assets/24/CellphoneUnlonck/CellphoneUnlonck.tsx",
+            "zeplinNames": [
+                "Assets/24/CellphoneUnlonck"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Others/Others.tsx",
+            "zeplinNames": [
+                "Assets/24/Others"
+            ]
+        },
+        {
+            "path": "src/Assets/40/SupportAgent_Circle/SupportAgent_Circle.tsx",
+            "zeplinNames": [
+                "Assets/40/SupportAgent_Circle"
+            ]
+        },
+        {
+            "path": "src/Texts/Basics/Center/18L_Center_Message/18L_Center_Message.tsx",
+            "zeplinNames": [
+                "Texts/Basics/Center/18L_Center_Message"
+            ]
+        },
+        {
+            "path": "src/Cards/HighlightedCard/SecondaryText/SecondaryText.tsx",
+            "zeplinNames": [
+                "Cards/HighlightedCard/SecondaryText"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Location/Location.tsx",
+            "zeplinNames": [
+                "Assets/24/Location"
+            ]
+        },
+        {
+            "path": "src/Assets/96/3GB/Tariff.tsx",
+            "zeplinNames": [
+                "Assets/96/3GB"
+            ]
+        },
+        {
+            "path": "src/Assets/40/PlaceholderGallery/PlaceholderGallery.tsx",
+            "zeplinNames": [
+                "Assets/40/placeholder_gallery"
+            ]
+        },
+        {
+            "path": "src/Cards/ModuleInformative/ModuleInformative.tsx",
+            "zeplinNames": [
+                "Cards/ModuleInformative"
+            ]
+        },
+        {
+            "path": "src/Notifications/Banner/BannerBoxed/BannerBoxed.tsx",
+            "zeplinNames": [
+                "Notifications/Banner/BannerBoxed/BannerOneButton",
+                "Notifications/Banner/BannerBoxed/BannerTwoButton"
+            ]
+        },
+        {
+            "path": "src/Resources/LabelStatus/LabelStatus.tsx",
+            "zeplinNames": [
+                "Resources/LabelStatus"
+            ]
+        },
+        {
+            "path": "src/Assets/32/Totalization/Totalization.tsx",
+            "zeplinNames": [
+                "Assets/32/Totalization"
+            ]
+        },
+        {
+            "path": "src/Assets/32/Family/Family.tsx",
+            "zeplinNames": [
+                "Assets/32/Family"
+            ]
+        },
+        {
+            "path": "src/Assets/32/AllProducts/AllProducts.tsx",
+            "zeplinNames": [
+                "Assets/32/Allproducts"
+            ]
+        },
+        {
+            "path": "src/Texts/Basics/Left/Link/Link.tsx",
+            "zeplinNames": [
+                "Texts/Basics/Left/Link"
+            ]
+        },
+        {
+            "path": "src/Resources/ListsAmount/Right/AmountType/AmountType.tsx",
+            "zeplinNames": [
+                "Ι🔒Resources/ListsAmount/Right/AmountType",
+                "Ι🔒Resources/ListsAmount/Right/AmountTypeCrossed"
+            ]
+        },
+        {
+            "path": "src/Assets/24/LayoutDownloadInvers/index.tsx",
+            "zeplinNames": [
+                "Assets/24/LayoutDownloadInvers"
+            ]
+        },
+        {
+            "path": "src/Assets/24/Shared_Cloud_Actived2/index.tsx",
+            "zeplinNames": [
+                "Assets/24/Shared_Cloud_Actived2"
+            ]
+        },
+        {
+            "path": "src/Assets/40/Add/Add.tsx",
+            "zeplinNames": [
+                "Assets/40/Add"
+            ]
+        },
+        {
+            "path": "src/Lists/Text/Asset/40/1L/OneL.tsx",
+            "zeplinNames": [
+                "Lists/Text/Asset/40/1L"
+            ]
+        },
+        {
+            "path": "src/Assets/22/NavBar/Refresh/Refresh.tsx",
+            "zeplinNames": [
+                "ΙΙ Assets/22/NavBar/Refresh"
+            ]
+        },
+        {
+            "path": "src/InputFileds/TextArea/TextArea.tsx",
+            "zeplinNames": [
+                "Input Fields/TextArea/○ Inactive"
+            ]
+        },
+        {
+            "path": "src/Illustrations/104/EmptyNoPackage/index.tsx",
+            "zeplinNames": [
+                "Illustrations/104/EmptyNoPackage"
+            ]
+        },
+        {
+            "path": "src/Lists/Bullet/List/List.tsx",
+            "zeplinNames": [
+                "Lists/Bullet/List"
+            ]
+        },
+        {
+            "path": "src/Assets/12/BulletList/BulletList.tsx",
+            "zeplinNames": [
+                "Assets/12/BulletList"
+            ]
+        },
+        {
+            "path": "src/Illustrations/Options/Options.tsx",
+            "zeplinNames": [
+                "Illustrations/options"
+            ]
+        }
+    ],
+    "styleguides": [
+        "5fc01140cde681b5d1efb51a"
+    ]
+}
